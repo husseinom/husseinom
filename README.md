@@ -1,19 +1,37 @@
-# Hi there, I'm Omar Hussein 👋
-
-🎓 4th-year Computer Science & Management Engineering student at **Polytech Montpellier**  
-💡 Passionate about **software engineering, web development, and data science**  
-🌍 Multilingual: **French, English, Arabic, Spanish**  
-📌 Looking for a **4-month internship starting April 2026**  
-
----
+# Hi there, I'm Omar 👋
 
 ## 🚀 About Me
-- 🔭 Currently working on: **E-commerce apps, DTN-based systems, and computer vision projects**  
-- 🌱 Learning: **Cloud deployment (AWS, Docker)** and **advanced algorithms for routing**  
-- 👯 Open to collaborate on: **Web apps, open-source projects, and data-driven applications**  
-- ⚡ Fun fact: I coded a Mars rover simulation in C 🪐  
+Engineering student at Polytech Montpellier (France) specializing in Data Science, Software Engineering, and Web Development. Passionate about building scalable web applications, real-time systems, and intelligent data-driven solutions, I enjoy working across the stack—from backend architecture and system-level programming to frontend design and deployment.With strong adaptability, teamwork, and critical thinking skills, I’m currently seeking opportunities to apply my expertise in software engineering, data systems, and web development— always open to learning and contributing to impactful projects. 
 
 ---
+## 💻 Experience Highlights
+
+### 🔹 System Development Internship
+- Debugged bidirectional communication between two **Delay Tolerant Networking (DTN)** implementations.  
+- Integrated **A-SABR (Adaptive Schedule-Aware Bundle Routing)** to predict bundle arrival times using contact plan data.  
+- **Tech:** Rust, C  
+
+---
+
+
+### 🔹 Footoshop E-Commerce Platform
+Full-stack marketplace for sneaker trading.  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Deno  
+- **Database:** SQLite  
+- **Security:** JWT, OAuth 2.0   
+👉 Features: user authentication, product listings and admin section.
+
+---
+
+### 🔹 Reaction Time Game (Python + OpenCV)
+Interactive game using **Object-Oriented Programming** and **Computer Vision**.  
+- Difficulty levels: Easy, Intermediate, Hard  
+- **Libraries:** OpenCV, Matplotlib  
+👉 Tracks player performance and reaction times in real time.
+
+---
+
 
 ## 🛠️ Tech Stack
 
@@ -29,6 +47,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
@@ -45,6 +64,13 @@
 
 ---
 
+### 🔍 Currently Exploring  
+- Communication protocols & low-level networking (e.g., **DTN**)  
+- Advanced software design & **distributed architectures**  
+- New frameworks like **Spring Boot**  
+- **Agentic AI** and its applications in intelligent systems  
+
+---
 
 ## 🌐 Connect with Me
 
