@@ -1,7 +1,7 @@
 # Hi there, I'm Omar 👋
 
 ## 🚀 About Me
-Engineering student at Polytech Montpellier (France) specializing in Data Science, Software Engineering, and Web Development. Passionate about building scalable web applications, real-time systems, and intelligent data-driven solutions, I enjoy working across the stack—from backend architecture and system-level programming to frontend design and deployment.With strong adaptability, teamwork, and critical thinking skills, I’m currently seeking opportunities to apply my expertise in software engineering, data systems, and web development— always open to learning and contributing to impactful projects. 
+Engineering student at Polytech Montpellier (France) specializing in Data Science, Software Engineering, and Web Development. Passionate about building scalable web applications, real-time systems, and intelligent data-driven solutions, I enjoy working across the stack—from backend architecture and system-level programming to frontend design and deployment.With strong adaptability, teamwork, and critical thinking skills, I’m currently seeking opportunities to apply my expertise in software engineering, data systems, and web development. Always open to learning and contributing to impactful projects. 
 
 ---
 ## 💻 Experience Highlights
