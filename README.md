@@ -19,7 +19,7 @@ Full-stack marketplace for sneaker trading.
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Deno  
 - **Database:** SQLite  
-- **Security:** JWT, OAuth 2.0   
+- **Security:** JWT   
 👉 Features: user authentication, product listings and admin section.
 
 ---
