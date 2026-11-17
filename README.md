@@ -67,7 +67,6 @@ Interactive game using **Object-Oriented Programming** and **Computer Vision**.
 ### 🔍 Currently Exploring  
 - Communication protocols & low-level networking (e.g., **DTN**)  
 - Advanced software design & **distributed architectures**  
-- New frameworks like **Spring Boot**  
 - **Agentic AI** and its applications in intelligent systems  
 
 ---
